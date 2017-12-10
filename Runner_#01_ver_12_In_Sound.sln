@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner_#01_ver_12_In_Sound", "Runner_#01_ver_12_In_Sound.csproj", "{AC66E530-EF13-386C-AEEF-EF451B9CFEED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runner_#01_ver_12_In_Sound.Editor", "Runner_#01_ver_12_In_Sound.Editor.csproj", "{79C1F9EC-87CC-9A74-7F8D-E95A05E88533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC66E530-EF13-386C-AEEF-EF451B9CFEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC66E530-EF13-386C-AEEF-EF451B9CFEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC66E530-EF13-386C-AEEF-EF451B9CFEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC66E530-EF13-386C-AEEF-EF451B9CFEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79C1F9EC-87CC-9A74-7F8D-E95A05E88533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79C1F9EC-87CC-9A74-7F8D-E95A05E88533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79C1F9EC-87CC-9A74-7F8D-E95A05E88533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79C1F9EC-87CC-9A74-7F8D-E95A05E88533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
